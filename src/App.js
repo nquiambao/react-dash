@@ -1,6 +1,10 @@
+import DashBoardPage from './pages/DashBoardPage'
+
 function App() {
   return (
-    <div>test</div>
+    <>
+      <DashBoardPage/>
+    </>
   )
 }
 
