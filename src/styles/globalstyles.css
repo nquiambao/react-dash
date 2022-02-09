@@ -1,0 +1,10 @@
+header {
+    padding: 2rem 0;
+    border-bottom: 1px solid #dddddd90;
+    box-shadow: 0 5px 10px #dddddd50
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
